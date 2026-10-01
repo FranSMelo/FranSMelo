@@ -1,43 +1,50 @@
-<h1 align="center">👋 Olá! Eu sou o <span style="color:#0077b6;">Francisco Soares Melo</span></h1>
+<h1 align="center">👋 Olá, sou o <span style="color:#0077b6;">Francisco Soares Melo</span></h1>
 
 <p align="center">
-  🎓 Recém-licenciado em <strong>Engenharia Informática</strong> <br>
-  📚 Mestrando em Engenharia Informática - Internet das Coisas <br>
-  🏫 <a href="https://www.ipt.pt/">Instituto Politécnico de Tomar</a> <br>
-  🌍 Aveiro, Portugal | 23 anos
+  🛡️ Junior Cybersecurity & GRC Consultant | 🌐 Redes & Infraestruturas <br>
+  🎓 Mestre em Engenharia Informática - Internet das Coisas (<a href="https://www.ipt.pt/">IPT</a>) <br>
+  🌍 Aveiro, Portugal | 24 anos
 </p>
 
 ---
 
-## 🛠️ Stack & Skills
+## 🎯 Sobre Mim
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,rails,html,css,js,react,angular,docker" alt="Skill Icons" height="50"/>
-</div>
-
-- **Desenvolvimento:** Back-end | Front-end | Web & Mobile Apps | Infraestruturas de TI
-- **Áreas de Interesse:** Redes de Computadores, Machine Learning, IoT, Gestão de Projetos
+<p align="justify">
+Sou um profissional focado na interseção entre a <strong>Cibersegurança técnica</strong>, a <strong>Governança, Risco e Conformidade (GRC)</strong> e as <strong>Redes de Computadores</strong>. Recentemente concluí o meu mestrado com 18 valores, tendo desenvolvido trabalho prático na conformidade com a <strong>Diretiva NIS2</strong>, enquadramento nacional (Lei n.º 59/2025 e DL n.º 125/2025), normas ISO 27001 e arquiteturas de segurança baseadas em <strong>Zero Trust</strong>. Acredito que a segurança robusta exige tanto rigor técnico na infraestrutura como uma governação sustentável.
+</p>
 
 ---
 
-## 💬 Soft Skills
+## 🛠️ Core Competencies
 
-- Comunicação eficaz
-- Liderança e trabalho em equipa
-- Persistência e resiliência na resolução de problemas
-- Vontade de aprender e evoluir
+<div align="center">
+
+| Cibersegurança & GRC | Redes & Sistemas | Ferramentas & Análise |
+| :--- | :--- | :--- |
+| • Diretiva NIS2 & ISO 27001<br>• Gestão de Risco & Gap Analysis<br>• Business Impact Analysis (BIA)<br>• Planos de Resposta a Incidentes | • Arquiteturas Zero Trust<br>• Segmentação por VLANs<br>• Controlo de Acessos (802.1X/RADIUS)<br>• Routers & Switches | • OpenVAS & Nmap<br>• WebCheck<br>• Power BI<br>• Python / Git |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cibersegurança-0077B6?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ISO_27001-2E8B57?style=for-the-badge&logo=iso&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NIS2_Compliance-D9534F?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zero_Trust-4B0082?style=for-the-badge&logo=zerotrust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+## 💡 Áreas de Interesse
+
+- 🔒 **Cybersecurity & Compliance:** Auditorias, avaliação de vulnerabilidades, GRC e alinhamento regulatório.
+- 🌐 **Network Security:** Arquiteturas seguras, segmentação de redes, 802.1X/RADIUS e hardening de infraestruturas.
+- 🚀 **Resiliência Organizacional:** Planos de Continuidade de Negócio (BCP) e Resposta a Incidentes (IRP).
 
 ---
 
@@ -55,13 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B6&center=true&vCenter=true&width=900&lines=Sou+empenhado+e+n%C3%A3o+descanso+enquanto+n%C3%A3o+resolvo+um+problema.;Trabalho+em+equipa+e+aprendo+sempre+mais!;Vamos+construir+algo+incr%C3%ADvel+em+tecnologia!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=900&lines=Foco+em+Ciberseguran%C3%A7a%2C+GRC+e+Resili%C3%AAncia+Organizacional.;Arquiteturas+seguras+e+conformidade+normativa.;Vamos+construir+um+ecossistema+digital+mais+seguro!"/>
 </p>
-
----
-
-## 🚀 Sobre mim
-
-💡 Pessoa <strong>proativa</strong>, <strong>empenhada</strong> e focada em resolver problemas até ao fim.<br>
-💻 Entusiasta de **redes de computadores** – adoro programar, configurar routers, switches e trabalhar com infraestruturas de TI.<br>
-🤝 Grande valorização pelo <strong>trabalho em equipa</strong> e <strong>aprendizado contínuo</strong>.<br>
