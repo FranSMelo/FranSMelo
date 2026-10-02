@@ -1,17 +1,17 @@
-<h1 align="center">👋 Olá, sou o <span style="color:#0077b6;">Francisco Soares Melo</span></h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#0077b6;">Francisco Soares Melo</span></h1>
 
 <p align="center">
-  🛡️ Junior Cybersecurity & GRC Consultant | 🌐 Redes & Infraestruturas <br>
-  🎓 Mestre em Engenharia Informática - Internet das Coisas (<a href="https://www.ipt.pt/">IPT</a>) <br>
-  🌍 Aveiro, Portugal | 24 anos
+  🛡️ Junior Cybersecurity & GRC Consultant | 🌐 Networks & Infrastructure <br>
+  🎓 M.Sc. in Computer Engineering - Internet of Things (<a href="https://www.ipt.pt/">IPT</a>) <br>
+  🌍 Aveiro, Portugal | 24 years old
 </p>
 
 ---
 
-## 🎯 Sobre Mim
+## 🎯 About Me
 
 <p align="justify">
-Sou um profissional focado na interseção entre a <strong>Cibersegurança técnica</strong>, a <strong>Governança, Risco e Conformidade (GRC)</strong> e as <strong>Redes de Computadores</strong>. Recentemente concluí o meu mestrado com 18 valores, tendo desenvolvido trabalho prático na conformidade com a <strong>Diretiva NIS2</strong>, enquadramento nacional (Lei n.º 59/2025 e DL n.º 125/2025), normas ISO 27001 e arquiteturas de segurança baseadas em <strong>Zero Trust</strong>. Acredito que a segurança robusta exige tanto rigor técnico na infraestrutura como uma governação sustentável.
+Professional focused on the intersection of <strong>Technical Cybersecurity</strong>, <strong>Governance, Risk, and Compliance (GRC)</strong>, and <strong>Computer Networks</strong>. Recently concluded my Master's degree with a top grade (18/20), developing practical work on compliance with the <strong>NIS2 Directive</strong>, the national legal framework (Law No. 59/2025 & Decree-Law No. 125/2025), ISO/IEC 27001 standards, and <strong>Zero Trust</strong> security architectures. I believe that robust security requires both technical rigor in infrastructure and sustainable organizational governance.
 </p>
 
 ---
@@ -20,16 +20,16 @@ Sou um profissional focado na interseção entre a <strong>Cibersegurança técn
 
 <div align="center">
 
-| Cibersegurança & GRC | Redes & Sistemas | Ferramentas & Análise |
+| Cybersecurity & GRC | Networks & Systems | Tools & Analysis |
 | :--- | :--- | :--- |
-| • Diretiva NIS2 & ISO 27001<br>• Gestão de Risco & Gap Analysis<br>• Business Impact Analysis (BIA)<br>• Planos de Resposta a Incidentes | • Arquiteturas Zero Trust<br>• Segmentação por VLANs<br>• Controlo de Acessos (802.1X/RADIUS)<br>• Routers & Switches | • OpenVAS & Nmap<br>• WebCheck<br>• Power BI<br>• Python / Git |
+| • NIS2 Directive & ISO/IEC 27001<br>• Risk Management & Gap Analysis<br>• Business Impact Analysis (BIA)<br>• Incident Response & CSIRT | • Zero Trust Architectures<br>• VLAN Segmentation<br>• Access Control (802.1X/RADIUS)<br>• Routers & Switches | • OpenVAS & Nmap<br>• WebCheck<br>• Power BI<br>• Python / Git |
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cibersegurança-0077B6?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0077B6?style=for-the-badge&logo=security&logoColor=white"/>
   <img src="https://img.shields.io/badge/ISO_27001-2E8B57?style=for-the-badge&logo=iso&logoColor=white"/>
   <img src="https://img.shields.io/badge/NIS2_Compliance-D9534F?style=for-the-badge&logo=shield&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
@@ -40,15 +40,15 @@ Sou um profissional focado na interseção entre a <strong>Cibersegurança técn
 
 ---
 
-## 💡 Áreas de Interesse
+## 💡 Areas of Interest
 
-- 🔒 **Cybersecurity & Compliance:** Auditorias, avaliação de vulnerabilidades, GRC e alinhamento regulatório.
-- 🌐 **Network Security:** Arquiteturas seguras, segmentação de redes, 802.1X/RADIUS e hardening de infraestruturas.
-- 🚀 **Resiliência Organizacional:** Planos de Continuidade de Negócio (BCP) e Resposta a Incidentes (IRP).
+- 🔒 **Cybersecurity & Compliance:** Audits, vulnerability assessments, GRC, and regulatory alignment.
+- 🌐 **Network Security:** Secure architectures, network segmentation, 802.1X/RADIUS, and infrastructure hardening.
+- 🚀 **Organizational Resilience:** Business Continuity Plans (BCP) and Incident Response Plans (IRP).
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Where to find me
 
 <p align="center">
   <a href="mailto:francisco.soares.melo@gmail.com">
@@ -62,5 +62,7 @@ Sou um profissional focado na interseção entre a <strong>Cibersegurança técn
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B6&center=true&vCenter=true&width=900&lines=Foco+em+Ciberseguran%C3%A7a%2C+GRC+e+Resili%C3%AAncia+Organizacional.;Arquiteturas+seguras+e+conformidade+normativa.;Vamos+construir+um+ecossistema+digital+mais+seguro!"/>
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=850&lines=Cybersecurity+%26+GRC+Consultant;Zero+Trust+%26+Network+Security;Building+a+Resilient+Digital+Future!" alt="Typing SVG" />
+  </a>
 </p>
